@@ -1,8 +1,0 @@
-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã—Û±8Û¡çª¹,
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„œ›žûÿÿÿÿ8Â¹ª¹,
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8Â¹ª¹,
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8Â¹ª¹,
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(àˆó8¾õô§¹,

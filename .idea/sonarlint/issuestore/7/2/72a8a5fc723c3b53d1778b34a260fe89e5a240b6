@@ -1,10 +1,0 @@
-
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÇİÍÅÿÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(€š
-[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-=squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
-osquid:UselessImportCheck"HRemove this unused import 'com.xc.java.pattern.singleton.hungry.Hungry'.(¤ô´¯ùÿÿÿÿ
-ksquid:UselessImportCheck"IRemove this unused import 'com.xc.java.pattern.singleton.lazy.LazyThree'.(â‹Àê
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
