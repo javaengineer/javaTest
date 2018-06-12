@@ -1,0 +1,30 @@
+
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(öî¶Ñ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ª­÷‘
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Í“›
+Vsquid:UnusedPrivateMethod",Remove this unused private "noClone" method.(»õ‡´øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã‚øš
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÐ ÷
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÖÐ ÷
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(öî¶Ñ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÖÐ ÷
+^squid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(×¤²à
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£½ÂŠ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¯Ôö
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çü­ïûÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ª­÷‘
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Í“›
+Vsquid:UnusedPrivateMethod"1Remove this unused private "shallowClone" method.(åÄÞ©
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(åÄÞ©

@@ -1,0 +1,11 @@
+
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÛÊ¦ó½,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÛÊ¦ó½,
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ8ÛÊ¦ó½,
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÛÊ¦ó½,
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8ÛÊ¦ó½,
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÛÊ¦ó½,
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(œ™À8ÛÊ¦ó½,

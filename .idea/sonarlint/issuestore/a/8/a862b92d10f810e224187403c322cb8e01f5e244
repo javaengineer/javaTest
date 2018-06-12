@@ -1,0 +1,12 @@
+
+1squid:S1220""Move this file to a named package.
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(º®Áâùÿÿÿÿ
+isquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ôÖÜÔ
+bsquid:S3027""FPut single-quotes around '%' to use the faster "indexOf(char)" method.(ø‹ˆÓúÿÿÿÿ
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Ûåã¸
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(„Ãëþÿÿÿÿ
+bsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(²£öß
+Osquid:S18546"8Remove this useless assignment to local variable "temp".(ó£Æå
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÕÀúÿÿÿÿ
